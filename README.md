@@ -6,7 +6,10 @@
 
 ## Description
 
-Welcome to the Web Mining Application! This powerful tool leverages Python to scrape data from the Rapid API website, capturing essential information about various APIs. The extracted data is then neatly stored in an Excel sheet for easy access and analysis. Whether you're a developer looking to explore new APIs or a data enthusiast wanting to delve into API statistics, this application is your gateway to a treasure trove of information.
+Discover the power of data with this Web Mining Application, developed as part of a college project! This Python-based tool scrapes extensive information about APIs from the Rapid API website and organizes it into a well-structured Excel sheet. 
+
+Additionally, the application features a recommendation engine that utilizes cosine similarity to provide insightful recommendations based on the scraped data. Ideal for developers, researchers, and data enthusiasts, this application offers a streamlined way to access, analyze, and leverage API data for enhanced decision-making and project development.
+
 
 ## Contact
 
